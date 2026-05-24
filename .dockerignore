@@ -1,0 +1,21 @@
+# Git
+.git
+.gitignore
+
+# IDE
+.idea
+.vscode
+
+# Documentation
+*.md
+
+# GitHub
+.github
+
+# Data (mounted as volume)
+data/
+
+# Docker files
+Dockerfile
+docker-compose*.yml
+.dockerignore

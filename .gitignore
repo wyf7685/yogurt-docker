@@ -1,0 +1,6 @@
+# IDE
+.idea
+.vscode
+
+# Data (mounted as volume)
+data/
